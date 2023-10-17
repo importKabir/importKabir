@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Flutter for App Development<br><br>📫 How to reach me kabirs2604@gmail.com
 
+<img width="400" hight="400" align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fspongebob&psig=AOvVaw0t-3sY6Tvr0kQMG7qBVBU7&ust=1697611561841000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMij-ZS-_IEDFQAAAAAdAAAAABAp">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kabirshukla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabir-shukla-396247233/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KabirShukl) 
@@ -15,10 +16,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=importKabir&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,5 +1,10 @@
 # 💫 About Me:
- Hi, I'm Kabir Shukla 👋<br><br>I’m passionate about data analytics and visualization, and currently honing my skills in this domain. I enjoy diving deep into datasets to extract meaningful insights and present them in visually compelling ways. My projects primarily focus on leveraging tools like Python, SQL, and Power BI to solve real-world problems. Let's connect and explore the world of data together!<br>
+Hi, I'm Kabir Shukla 👋<br><br>
+I’m a Data & Business Analyst, recently graduated with a B.Tech in CSE (Data Science) and completed my internship as a Business Analyst at <b>Hisense</b>.<br><br>
+I enjoy working with <b>Python</b>, <b>SQL</b>, and <b>Power BI</b> to build predictive models, analyze business processes, and create interactive dashboards that turn raw data into actionable insights.<br><br>
+Currently learning more about <b>machine learning</b> and <b>generative AI</b> to strengthen my analytics and product-focused skillset.<br><br>
+Always open to collaborations that solve real-world problems with clean, impactful data solutions!
+
 
  <img src="https://media.tenor.com/L0pT08DVkjAAAAAC/borat-smiling-borat.gif" width="350" height="350" align="right" />
 

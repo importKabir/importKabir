@@ -57,17 +57,3 @@ Always open to collaborating on projects where **AI is central to the product ex
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-## 🔧 Highlight Project – Code-Genie
-
-> **Code-Genie** is an AI-powered code generation tool that turns natural language prompts into functional, ready-to-use codebases.
-
-- Takes a **plain English description** of what you want to build and generates structured project code  
-- Uses **LLM-based generation** to create boilerplate, core logic, and file structure so you can start from a working base instead of a blank file  
-- Designed as a smaller, experimental cousin to tools like Lovable—focused on learning how to wire **prompts → reasoning → code** in a repeatable way  
-
-🔗 Repo: [importKabir/Code-Genie](https://github.com/importKabir/Code-Genie)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=importKabir&icon=0&color=11)](https://visitcount.itsvg.in)
